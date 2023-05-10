@@ -1,5 +1,6 @@
 nome = input(print("Qual é o seu nome?"))
 idade = int(input("Agora digite sua idade?"))
+print("Eu sou o Nelson")
 print(f"Olá: {nome}, sua idade atualmente é {idade} \n")
 
 print("Fim do exercicio 1")
